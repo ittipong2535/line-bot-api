@@ -1,7 +1,5 @@
 <?php
 
-// example: https://github.com/ittipong2535/line-bot-api/blob/master/php/example/chapter-01.php
-
 include ('line-bot-api/php/line-bot.php');
 
 $channelSecret = '12ac32778389db4066a4237fb66a247d';
