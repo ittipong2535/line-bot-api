@@ -1,6 +1,6 @@
 <?php
 
-// example: https://github.com/onlinetuts/line-bot-api/blob/master/php/example/chapter-01.php
+// example: https://github.com/ittipong2535/line-bot-api/blob/master/php/example/chapter-01.php
 
 include ('line-bot-api/php/line-bot.php');
 
